@@ -1,0 +1,21 @@
+{
+  "name": "raycast-inspired-theme",
+  "displayName": "raycast-inspired theme",
+  "description": "was inspired by raycast so i did this .hope you like it",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark raycast-inspired theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark raycast-inspired theme-color-theme.json"
+      }
+    ]
+  }
+}
